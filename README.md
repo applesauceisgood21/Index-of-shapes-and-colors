@@ -1,4 +1,2 @@
-Fix Logs
-
-- 16/9/2025
-  creation
+i add css when i feel like it
+it's just links anyway
