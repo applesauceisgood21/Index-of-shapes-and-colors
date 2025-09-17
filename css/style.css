@@ -1,12 +1,9 @@
-@font-face {
-  font-family: "moonDance";
-  src: url(css/fonts/MoonDance-Regular.ttf);
+.moon-dance-regular {
+  font-family: "Moon Dance", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 body {
-  background-color: lightblue;
-}
-
-h1 {
-  font-family: moonDance;
+  background-color: lightgrey;
 }
