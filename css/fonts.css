@@ -1,8 +1,8 @@
 @font-face {
-  font-family: moonDance;
+  font-family: "moonDance";
   src: url(css/fonts/MoonDance-Regular.ttf);
 }
 
 .p1 {
-  font-family: moonDance;
+  font-family: "moonDance";
 }
